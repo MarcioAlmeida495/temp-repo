@@ -1,2 +1,6 @@
 Um teste qualquer nesse arquivo
 2 novos comandos
+
+git add .
+git commit -m 'teste'
+git push
